@@ -113,11 +113,3 @@ Key visualizations include:
 * Perform **time-series analysis** for seasonal price trends.
 
 ---
-
-## 👨‍💻 Author
-
-**Jyothishwar CSM-B**
-Software Engineer | AI/ML Enthusiast | Data Analyst
-🚀 Focused on building data-driven solutions and insights
-
----
